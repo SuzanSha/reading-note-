@@ -5,8 +5,8 @@ It is light weight language that generates HTML
 It's very easy to use and fast.
   
 # flash cards
-_ HTML = tags 
-_ mark down = # 
+- HTML and tags 
+
 
 # Notes 
 1. HTML is for structure 
