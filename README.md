@@ -5,7 +5,6 @@ and growth mindset for me for example is whenever i put something in mind i dont
 
  i have reminders to myself of how to keep myself in a growth mindset such as success , money and self appreciation
 
-Syntax highlighted code block
 
 ## 5 different features of Markdown to structure a page
 Headings
