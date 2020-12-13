@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Growth mindset in my own words 
+growth midset for me is belleiving in yourself and for me i alawys have main base in my life like if you can do it i can do it too
+and growth mindset for me for example is whenever i put something in mind i dont stop until i make it happen .
+### 3 reminders 
 
-You can use the [editor on GitHub](https://github.com/SuzanSha/reading-note-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ i have reminders to myself of how to keep myself in a growth mindset such as success , money and self appreciation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 5 different features of Markdown to structure a page
+Headings
+Styling text
+Quoting text
+Quoting code
+links
 
-- Bulleted
-- List
+# about me 
+my name is suzan , 26 years old , from irbid .
+[my github](https://github.com/SuzanSha)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuzanSha/reading-note-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
