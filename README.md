@@ -7,21 +7,16 @@ and growth mindset for me for example is whenever i put something in mind i dont
 
 
 ## 5 different features of Markdown to structure a page
-Headings
-Styling text
-Quoting text
-Quoting code
-links
+Headings ,
+Styling text ,
+Quoting text ,
+Quoting code,
+links.
 
 # about me 
 my name is suzan , 26 years old , from irbid .
 [my github](https://github.com/SuzanSha)
 
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuzanSha/reading-note-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
